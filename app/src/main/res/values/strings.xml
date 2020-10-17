@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="parks">Парк</string>
+    <string name="culture">Культура</string>
+    <string name="restaurants">Ресторан</string>
+    <string name="shop">Шоппинг</string>
+    <string name="location">Местоположение</string>
+    <string name="District">Район</string>
+
+    <string name="navat">Уютная атмосфера. Вкуснейшие завтраки!\n Скидка 10% имениннику!\nЕжедневно 8.00 до 24.00 </string>
+    <string name="syr">Наверное нет ни одного любителя сыра, кто остался бы равнодушным к нашему Сырному Ассорти\nРаботаем каждый день с 10:00 до 00:00</string>
+    <string name="resfrunze">Кухня азиатская, европейская, японская, восточная.\n
+        Средний счёт на человека 1500–2000 сом.\nвремя работы с 09:00 до 23:00</string>
+    <string name="resfuru">Японский ресторан и Суши-бар.
+        \nПравильная атмосфера японского ресторана, нормальные нигири-суши, отличная курица терияки.
+        \nвремя работы с 09:00 до 23:00</string>
+    <string name="bish">Tоргово-развлекательный центр\nШоппинг; Кафе и Рестораны; Синематика; Мероприятия; Акции\n
+        Ежедневно 10:00 до 20:00.</string>
+    <string name="dordoy">ТРЦ "Дордой Плаза" - это мультифункциональный комплекс\n
+        общей площадью более 70000 кв.м,\n
+        расположенный в центре города Бишкек\nЕжедневно с 10:00 до 22:00</string>
+    <string name="tsum">Если вы планируете приобрести сувениры, одежду, мобильные телефоны, аксессуары,
+        то вам необходимо посетить ЦУМ.\nЕжедневно с 10:00 до 22:00</string>
+    <string name="vefa">VEFA – современный комфортный бизнес центр\n для вашего
+        бизнеса и отдыха расположенный в самом сердце Бишкека.\nБизнес центр VEFA — место, где каждый найдет,\n
+        что то свое и даже чуточку больше.\nЕжедневно 09:00–00:15</string>
+    <string name="asiamall">"Азия Молл" у нас есть все необходимое для вашего комфортного отдыха и приятного шопинга.\n
+        Фудкорт, 3D кинотеатр, детская развлекательная зона\nЕжедневно с 10:00 до 22:00</string>
+    <string name="resbar">Семейный ресторан.\nКухня восточная, европейская, кыргызская.\nВремя работы с 10:00 до 24:00</string>
+    <string name="gum">ГУМ «Чынар»\nГлавный Универсальный Магазин «Чынар»\nЕжедневно с 10:00 до 22:00</string>
+    <string name="operbalet">Киргизский национальный академический театр оперы и балета \n
+        им. Абдыласа Малдыбаева — театр оперы и балета в городе Бишкек, единственный оперный театр Киргизии.</string>
+    <string name="filar">Одной из достопримечательностей нашего города является государственная филармония.\n
+        Здание музыкального храма называют одним из лучших сооружений столицы, выполненное из белого мрамора,\n
+        отделанное медной чеканкой, украшенное витражами. Филармония носит имя Токтогула Сатылганова</string>
+    <string name="rus">В 1935 году Правительство Киргизской Советской Социалистической Республики\n
+        приняло Постановление об организации самостоятельного русского драматического театра.
+        Судя по публикациям в газетах тех лет, это событие имело большое значение.\n
+        До сих пор Государственный академический русский театр драмы остается единственным русским театром Республики.</string>
+    <string name="gapar">Национальный музей искусств имени Гапара Айтиева — государственный музей Кыргызской республики.
+        Назван в честь художника Гапара Айтиева.</string>
+    <string name="panfilov">Панфиловский парк - это городской мемориал, расположенный недалеко от Старой площади и площади
+        Манас в Бишкеке, столице Кыргызской Республики.
+        Парк носит имя Героя Советского Союза и председателя Военного комитета Киргизской ССР Ивана Панфилова. </string>
+    <string name="dub">Оживленный центральный парк: фонтаны, обширные лужайки и музей скульптур под открытым небом.</string>
+    <string name="pobeda">Парк "Победы" им.Даира Асанова. 1981 г.\nРасположение:
+        Парк занимает большой зеленый массив, размещенный в южной части города Бишкек</string>
+    <string name="lub">Парк расположен на проспекте Айтматова\n Площадь свыше 10 гектаров.</string>
+    <string name="addresspob">Масалиева ул. 28/4</string>
+    <string name="addresspan">Фрунзе, 370</string>
+    <string name="addressdub"> ул. Раззакова</string>
+    <string name="addresslub">Чингиза Айтматова проспект, 90/3</string>
+    <string name="addressoper">167 Советская</string>
+    <string name="number">0500787878</string>
+    <string name="address"><u>ахунбаева</u></string>
+    <string name="phonedub">0555 007 105</string>
+    <string name="phonealaarcha">0701 551 026</string>
+    <string name="phonepanfilov">0771 513 599</string>
+    <string name="phonefinearts">0312 621 641</string>
+    <string name="phonelub">0772 681 453</string>
+    <string name="phonefrunze">0312 625 031</string>
+    <string name="phonenavat">0551 621 111</string>
+    <string name="phonebar">0312 521 111</string>
+    <string name="phonefuru">0554 400 633</string>
+    <string name="phonedordoy">0312 621 144</string>
+    <string name="phonefr">0770 555 456</string>
+    <string name="phonepob">0700 62 07 60</string>
+    <string name="phonesyr">0704 537 000</string>
+    <string name="phonebish">0312 312 031</string>
+    <string name="phonevefa">0772 554 090</string>
+    <string name="phoneoper">0312 621 619</string>
+    <string name="phonetsum">0312 909 279</string>
+    <string name="phonerus">0312 662 032</string>
+    <string name="phoneasiamall">0551 890 040</string>
+    <string name="phonegum">0705 189 865</string>
+    <string name="phonefilar">0312 614 672</string>
+    <string name="phonegap">0312 621 641</string>
+    <string name="addressnavat">ул.Масалиева 28</string>
+    <string name="addresssyr">Ахунбаева 53</string>
+    <string name="addressbar">78б ул. Аалы Токомбаева</string>
+    <string name="addressfuru">132 ул. Боконбаева</string>
+    <string name="addressfr"> ул.Абдумомунова 220a</string>
+    <string name="addressbish">148 Киевская </string>
+    <string name="addressasiamall">3 просп. Мира</string>
+    <string name="addressdordoy">15 ул. Султана Ибраимова</string>
+    <string name="addressvefa">27, 1 Горький</string>
+    <string name="addresstsum">155 просп. Чуй, Бишкек</string>
+    <string name="addressgum">92 просп. Чуй</string>
+    <string name="addressfilar">253 просп. Чуй</string>
+    <string name="addressrus">122 ул. Тынстанова</string>
+    <string name="addressgap">196 улица Юсупа Абдрахманова</string>
+
+</resources>
